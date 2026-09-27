@@ -8,9 +8,11 @@ ArztFlow ist eine deutschsprachige Web-App für Personalvermittlungen und Ärzti
 
 **Projektstand: funktionsfähiger lokaler MVP mit fiktiven Demodaten. Ein produktiver Betrieb mit echten Nutzern ist noch nicht freigegeben.**
 
-[![ArztFlow – Einsätze planen. Menschen verbinden.](assets/cover.jpg)](assets/arztflow-demo-de.mp4)
+[![ArztFlow – Einsätze planen. Menschen verbinden.](assets/cover.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7510100230286000129/)
 
-**[Deutsche Produktdemo ansehen – 66 Sekunden](assets/arztflow-demo-de.mp4)**
+**[Deutsche Produktdemo auf LinkedIn ansehen – 66 Sekunden](https://www.linkedin.com/feed/update/urn:li:activity:7510100230286000129/)**
+
+Alternativ: [Demovideo als MP4 herunterladen (3,4 MB)](https://github.com/qirmehle/arztflow-portfolio/raw/refs/heads/main/assets/arztflow-demo-de.mp4).
 
 Das Video zeigt eine echte Bedienung des lokalen Prototyps: Dienst erfassen → Verfügbarkeit prüfen → persönliche Anfrage senden → Interesse zurückmelden. Alle dargestellten Personen und Einrichtungen sind fiktiv. Die deutsche Sprecherstimme wurde mit KI erzeugt.
 
